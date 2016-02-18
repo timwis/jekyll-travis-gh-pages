@@ -1,6 +1,6 @@
 title: Jekyll Travis gh-pages
 description: Demo of jekyll + travis + gh-pages
-baseurl: "http://timwis.com/jekyll-travis-gh-pages/"
+baseurl: "/jekyll-travis-gh-pages"
 
 # Build settings
 markdown: kramdown
