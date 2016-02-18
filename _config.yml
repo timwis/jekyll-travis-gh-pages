@@ -19,3 +19,10 @@ collections:
 
 gems:
   - octopress-paginate
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .travis.yml
+  
