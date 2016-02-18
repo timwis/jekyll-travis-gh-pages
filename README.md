@@ -1,4 +1,4 @@
-# Jekyll/Travis/gh-pages
+# Jekyll/Travis/gh-pages [![Build Status](https://travis-ci.org/timwis/jekyll-travis-gh-pages.svg?branch=master)](https://travis-ci.org/timwis/jekyll-travis-gh-pages)
 Deploy jekyll sites to gh-pages with plugins, etc. using Travis CI
 
 ## Usage
